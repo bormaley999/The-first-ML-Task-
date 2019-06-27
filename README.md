@@ -6,7 +6,12 @@ The .csv file is the source data (dataset) I used to build the model. The curren
 The ML library is scikit-learn. 
 I used Linear Regression function "
 ```py
-class sklearn.linear_model.LinearRegression(fit_intercept=True, normalize=False, copy_X=True, n_jobs=None)".
+class sklearn.linear_model.LinearRegression(
+  fit_intercept=True, 
+  normalize=False, 
+  copy_X=True, 
+  n_jobs=None
+).
 ```
 Specifically, this example: `reg = LinearRegression().fit(X, y)`.
 
