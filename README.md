@@ -1,4 +1,4 @@
-# The first ML Task
+# The first ML project
 This is the outcome of the 2-days intro ML course held by Skillbox team.
 Important Note: I know Python 3 for only 3 days now =).
 
